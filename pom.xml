@@ -33,9 +33,9 @@
   <url>http://ballerinalang.org</url>
 
   <scm>
-    <url>https://github.com/ballerinalang/plugin-maven.git</url>
-    <developerConnection>scm:git:https://github.com/ballerinalang/plugin-maven.git</developerConnection>
-    <connection>scm:git:https://github.com/ballerinalang/plugin-maven.git</connection>
+    <url>https://github.com/manuri/plugin-maven-temp.git</url>
+    <developerConnection>scm:git:https://github.com/manuri/plugin-maven-temp.git</developerConnection>
+    <connection>scm:git:https://github.com/manuri/plugin-maven-temp.git</connection>
     <tag>HEAD</tag>
   </scm>
 
